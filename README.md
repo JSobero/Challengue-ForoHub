@@ -7,7 +7,7 @@ ForoHub es una plataforma diseñada para facilitar el intercambio de ideas y pro
 El proyecto se encuentra actualmente en fase de finalizado pero con futuras implementaciones de mejoras.
 
 <h3>Funciones</h3>
-#CREAR TOPICS
-#ACTUALIZAR TOPICS
-#BUSCAR TOPICS
-#ELIMINAR  TOPICS
+*#CREAR TOPICS
+*#ACTUALIZAR TOPICS
+*#BUSCAR TOPICS
+*#ELIMINAR  TOPICS
