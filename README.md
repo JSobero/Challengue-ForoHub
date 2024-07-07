@@ -1,14 +1,14 @@
-<h1 align="center"> <strong>Challengue - ForoHub</strong> </h1>
-ForoHub es una plataforma diseñada para facilitar el intercambio de ideas y proyectos en un entorno colaborativo. Los usuarios pueden crear, eliminar, actualizar y buscar topics.
-<br>
-![image](https://github.com/JSobero/Challengue-ForoHub/assets/113272848/2ed90cd9-a3df-4df0-9aaf-87d756f03c77)
-<br>
-<h3>Estado del Proyecto</h3>
-El proyecto se encuentra actualmente en fase de finalizado pero con futuras implementaciones de mejoras.
+# **Challengue - ForoHub**
 
-<h3>Funciones</h3>
-- `#CREAR TOPICS`: descripción de la funcionalidad 1- `#ACTUALIZAR TOPICS`: descripción de la funcionalidad 2- `#BUSCAR TOPICS`: descripción de la funcionalidad 3
-*
-*
-*#BUSCAR TOPICS
-*#ELIMINAR  TOPICS
+ForoHub es una plataforma diseñada para facilitar el intercambio de ideas y proyectos en un entorno colaborativo. Los usuarios pueden crear, eliminar, actualizar y buscar topics.
+
+![image](https://github.com/JSobero/Challengue-ForoHub/assets/113272848/2ed90cd9-a3df-4df0-9aaf-87d756f03c77)
+
+### Estado del Proyecto
+El proyecto se encuentra actualmente finalizado, pero con futuras implementaciones de mejoras.
+
+### Funciones
+- Agregar topics
+- Editar topics
+- Buscar topics
+- Eliminar topics
